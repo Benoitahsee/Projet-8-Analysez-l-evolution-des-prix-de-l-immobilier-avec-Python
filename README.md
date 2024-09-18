@@ -7,6 +7,6 @@ J’ai également utilisé du clustering pour classifier les biens immobiliers.
 
 En suivant les différentes étapes du projet, j’ai développé des compétences essentielles pour devenir Business Intelligence Analyst.
 
-Compétences : Programmation en python, régression linéaire, clustering non supervisé.
+Compétences développées: Programmation en python, régression linéaire, clustering non supervisé.
 
-Soft skills : gestion du temps, collaboration, présentation.
+Soft skills acquis : gestion du temps, collaboration, présentation.
