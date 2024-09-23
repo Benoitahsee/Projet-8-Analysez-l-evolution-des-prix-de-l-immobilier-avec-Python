@@ -1,7 +1,7 @@
 **Projet 8 : Analysez l’évolution des prix de l’immobilier avec Python**
 
 Ce projet m’a permis d'utiliser Python pour analyser des données immobilières, en explorant des séries temporelles, 
-en effectuant des tests de corrélation et en entraînant un algorithme de régression linéaire pour prédire les prix immobiliers.
+en effectuant des tests de corrélation et en entraînant un algorithme de régression linéaire pour prédire les prix immobiliers sur Paris.
 
 J’ai également utilisé du clustering pour classifier les biens immobiliers de la société "Les plus beaux logis de Paris".
 
